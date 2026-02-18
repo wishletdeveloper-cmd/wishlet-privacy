@@ -53,6 +53,4 @@ We may update these Terms. Continued use of the App after changes means you acce
 
 ## 10. Contact
 
-For questions: support@wishlet.app  
-
-*(Replace with your real support email or URL before release.)*
+wishlet.developer@gmail.com

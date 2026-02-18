@@ -29,7 +29,7 @@ We do not sell your personal information.
 
 ## Your rights
 
-You can request access, correction, or deletion of your data by contacting us (see Support below). You can delete your account from the app or by contacting us.
+You can request access, correction, or deletion of your data by contacting us (see Contact below). You can delete your account from the app or by contacting us.
 
 ## Security
 
@@ -41,7 +41,4 @@ We may update this policy; we will post the new version and, where required, not
 
 ## Contact
 
-Support: support@wishlet.app  
-Privacy: privacy@wishlet.app  
-
-*(Replace these with your real support email or URL and privacy contact before release.)*
+wishlet.developer@gmail.com
